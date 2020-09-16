@@ -1,0 +1,8 @@
+        currentSummary=today.get(1);
+        iconQualifier=today.get(2);
+        currentPercipProb=today.get(9);
+        currentMaxTemp=today.get(11);
+        currentMinTemp=today.get(13);
+        currentHumidity=today.get(20);
+        currentPressure=today.get(21);
+        currentWindSpeed=today.get(22);
